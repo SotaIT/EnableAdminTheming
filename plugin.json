@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Admin",
+  "FriendlyName": "EnableAdminTheming",
+  "SystemName": "Admin.EnableAdminTheming",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.10" ],
+  "Author": "sotait.net",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Admin.EnableAdminTheming.dll",
+  "Description": "Enables overriding admin view in theme. Add your views into AdminViews folder (and don't forget to copy _ViewImports.cshtml from Areas/Admin/Views folder)"
+}
