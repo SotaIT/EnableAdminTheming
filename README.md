@@ -3,9 +3,9 @@
 
 EnableAdminTheming allows you to override Admin Views of your nopCommerce store.
 
-Instractions:
+Instructions:
 
-1. Download the pre-built version from https://sotait.net/en/enableadmintheming and install the plugin
+1. Download the pre-built version from https://www.nopcommerce.com/p/3391/enable-admin-theming.aspx and install the plugin
 
 2. Create a folder named AdminViews in your theme's folder
 
