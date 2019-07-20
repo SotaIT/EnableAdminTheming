@@ -1,5 +1,5 @@
-﻿using Nop.Core.Plugins;
-using Nop.Services.Common;
+﻿using Nop.Services.Common;
+using Nop.Services.Plugins;
 
 namespace Nop.Plugin.Admin.EnableAdminTheming
 {
